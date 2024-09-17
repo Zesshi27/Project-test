@@ -1,0 +1,33 @@
+{
+    
+
+    "bin.mt.signature": {
+        "credits": "@KafuHex",
+        "showDialog": true,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/TheHiddenFools",
+        "showNegativeButton": true,
+        "negativeButtonText": "Join Channel",
+        "negativeButtonUrl": "https://t.me/TheHiddenFools",
+        "showPositiveButton": true,
+        "positiveButtonText": "Maybe Later",
+        "maxShowCount": 5,
+        "controlByShowCount": false,
+
+        
+        "updateConfig": {
+        "updateMonitor": false,
+        "requiredVersion": "0.16.4.3",
+        "requiredVersionCode": 124,
+        "updateTitle": "Update Required",
+        "updateMessage": "A new version of the app is available",
+        "showUpdateNegativeButton": true,
+        "updateNegativeButtonText": "Update Now",
+        "updateNegativeButtonUrl": "https://pornhub.com",
+        "showUpdatePositiveButton": false,
+        "updatePositiveButtonText": "Maybe Later"
+        }
+    }
+    
+   
+}
