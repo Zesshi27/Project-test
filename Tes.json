@@ -18,7 +18,7 @@
         "forceClose": false,
         "checkSize": false,
         "expectedSize": 584908,
-        "checkMD5": false,
+        "checkMD5": true,
         "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
         },
 
