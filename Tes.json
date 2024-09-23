@@ -12,8 +12,8 @@
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
         "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
-        "maxShowCount": 5,
-        "controlByShowCount": false,
+        "maxShowCount": 3,
+        "controlByShowCount": true,
 
         "checkIntegrity": {
         "forceClose": false,
