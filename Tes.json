@@ -28,7 +28,7 @@
 
         
         "updateConfig": {
-        "updateMonitor": true,
+        "updateMonitor": false,
         "requiredVersion": "9999",
         "requiredVersionCode": 126,
         "updateTitle": "Update Required",
