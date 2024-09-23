@@ -28,9 +28,9 @@
 
         
         "updateConfig": {
-        "updateMonitor": false,
-        "requiredVersion": "0.16.4.3",
-        "requiredVersionCode": 124,
+        "updateMonitor": true,
+        "requiredVersion": "9999",
+        "requiredVersionCode": 126,
         "updateTitle": "Update Required",
         "updateMessage": "A new version of the app is available",
         "showUpdateNegativeButton": true,
