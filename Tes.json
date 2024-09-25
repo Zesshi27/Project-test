@@ -10,7 +10,7 @@
         "negativeButtonText": "Join Channel",
         "negativeButtonUrl": "https://t.me/TheHiddenFools",
         "showPositiveButton": true,
-        "showSecretButton": true,
+        "showSecretButton": false,
         "secretButtonText": "test button",
         "secretButtonUrl": "https://nhentai.net",
         "positiveButtonText": "Maybe Later",
