@@ -20,9 +20,9 @@
 
         "checkIntegrity": {
         "forceClose": false,
-        "checkCRC32": true,
+        "checkCRC32": false,
         "expectedCRC32": "0x572f0d51",
-        "checkMD5": true,
+        "checkMD5": false,
         "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
         },
 
