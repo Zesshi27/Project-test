@@ -1,46 +1,44 @@
 {
-    
-
     "bin.mt.signature": {
         "credits": "@KafuHex",
         "showDialog": true,
         "title": "Mod by @kafuHex",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
         "message": "telegram: https://t.me/TheHiddenFools",
-        "showNegativeButton": true,
-        "negativeButtonText": "Join Channel",
-        "negativeButtonUrl": "https://t.me/TheHiddenFools",
-        "showPositiveButton": true,
+        "showTopButton": true,
+        "TopButtonText": "Join Channel",
+        "TopButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "BottomButtonText": "Maybe Later",
         "showSecretButton": false,
         "secretButtonText": "test button",
-        "secretButtonUrl": "https://nhentai.net",
-        "positiveButtonText": "Maybe Later",
-        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
+        "secretButtonUrl": "https://nhentai.net",  
         "maxShowCount": 3,
         "controlByShowCount": false,
 
         "checkIntegrity": {
-        "forceClose": false,
-        "checkCRC32": false,
-        "expectedCRC32": "0x572f0d51",
-        "checkMD5": false,
-        "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
+            "forceClose": false,
+            "checkCRC32": false,
+            "expectedCRC32": "0x572f0d51",
+            "checkMD5": false,
+            "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
         },
 
-        
         "updateConfig": {
-        "updateMonitor": false,
-        "requiredVersion": "9999",
-        "requiredVersionCode": 126,
-        "updateTitle": "Update Required",
-        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
-        "updateMessage": "A new version of the app is available",
-        "showUpdateNegativeButton": true,
-        "updateNegativeButtonText": "Update Now",
-        "updateNegativeButtonUrl": "https://pornhub.com",
-        "showUpdatePositiveButton": true,
-        "updatePositiveButtonText": "Maybe Later"
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "Mod by @kafuHex",
+            "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
+            "message": "telegram: https://t.me/TheHiddenFools",
+            "showTopButton": true,
+            "TopButtonText": "Join Channel",
+            "TopButtonUrl": "https://t.me/TheHiddenFools",
+            "showBottomButton": true,
+            "BottomButtonText": "Maybe Later",
+            "showSecretButton": false,
+            "secretButtonText": "test button",
+            "secretButtonUrl": "https://nhentai.net",  
         }
     }
-    
-   
 }
