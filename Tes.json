@@ -15,6 +15,15 @@
         "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
         "maxShowCount": 3,
         "controlByShowCount": false,
+
+
+        "signCheck": {
+            "forceClose": false,
+            "checkCRC32": true,
+            "expectedCRC32": "0x572f0d51",
+            "checkMD5": true,
+            "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
+        },
         
      
 
