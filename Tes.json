@@ -89,7 +89,51 @@
         "secretButtonUrl": "www.google.com",
         "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg"
         }
-    }
+    },
+
+    "com.artem.scotepio": {
+        "credits": "@KafuHex",
+        "showDialog": true,
+        "title": "Mod by @kafuHex",
+        "message": "telegram: https://t.me/TheHiddenFools",
+        "showTopButton": true,
+        "topButtonText": "Join Channel",
+        "topButtonUrl": "https://t.me/TheHiddenFools",
+        "showBottomButton": true,
+        "bottomButtonText": "Maybe Later",
+        "showSecretButton": false,
+        "secretButtonText": "Do not touch",
+        "secretButtonUrl": "https://nhentai.net",
+        "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
+
+        "signCheck": {
+            "forceClose": false,
+            "checkCRC32": true,
+            "expectedCRC32": "0x572f0d51",
+            "checkMD5": true,
+            "expectedMD5": "40470fb16311462cf64d8be9271e5a0b"
+        },
+        
+        
+        "updateConfig": {
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "Mod by @kafuHex",
+            "message": "telegram: https://t.me/TheHiddenFools",
+            "showTopButton": true,
+            "topButtonText": "test update",
+            "topButtonUrl": "https://t.me/TheHiddenFools",
+            "showBottomButton": true,
+            "bottomButtonText": "Maybe Later",
+            "showSecretButton": false,
+            "secretButtonText": "test button",
+            "secretButtonUrl": "https://nhentai.net",
+            "imageUrl": "https://images2.imgbox.com/f4/db/Sxwu5XNU_o.jpg"
+        }
+}
     
     
 }
