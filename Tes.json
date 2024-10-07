@@ -3,7 +3,7 @@
         "credits": "@KafuHex",
         "showDialog": true,
         "title": "hello world",
-        "message": "haiii",
+        "message": "Fixed data not getting imported after the previous update.\nFix licence key verifier crashing after activation.\nFixed landscape layout issues for Color Picker.\nFix landscape span count for Accent Colors.",
         "showTopButton": true,
         "topButtonText": "Join Channel",
         "topButtonUrl": "https://t.me/TheHiddenFools",
