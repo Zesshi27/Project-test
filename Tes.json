@@ -2,30 +2,8 @@
     "bin.mt.signature": {
         "credits": "@KafuHex",
         "showDialog": true,
-        "title": "hello world",
-        "message": "<h2>Changelog Update Aplikasi</h2>
-<ul>
-    <li><b>Versi 2.1.0</b> - 6 Oktober 2024</li>
-    <ul>
-        <li>Peningkatan performa aplikasi untuk perangkat low-end.</li>
-        <li>Menambahkan fitur baru: <i>Dark Mode</i>.</li>
-        <li>Perbaikan bug yang menyebabkan aplikasi crash saat melakukan login.</li>
-        <li>Peningkatan tampilan antarmuka di halaman pengaturan.</li>
-    </ul>
-    <li><b>Versi 2.0.5</b> - 15 September 2024</li>
-    <ul>
-        <li>Optimisasi proses sinkronisasi data di latar belakang.</li>
-        <li>Menambahkan dukungan untuk lebih banyak bahasa.</li>
-        <li>Memperbaiki masalah pada sistem notifikasi.</li>
-    </ul>
-    <li><b>Versi 2.0.0</b> - 1 Agustus 2024</li>
-    <ul>
-        <li>Peluncuran versi baru dengan antarmuka pengguna yang lebih modern.</li>
-        <li>Peningkatan keamanan dengan penambahan otentikasi dua faktor.</li>
-        <li>Memperbaiki beberapa bug kecil yang dilaporkan oleh pengguna.</li>
-    </ul>
-</ul>
-",
+        "title": "UPDATE",
+        "message": "https://raw.githubusercontent.com/Zesshi27/Project-test/refs/heads/main/Tes.html",
         "showTopButton": true,
         "topButtonText": "Join Channel",
         "topButtonUrl": "https://t.me/TheHiddenFools",
